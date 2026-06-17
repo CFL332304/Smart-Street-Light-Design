@@ -1,0 +1,1 @@
+professional_project_desgn\startup_stm32f103xb.o: startup_stm32f103xb.s
